@@ -51,7 +51,7 @@ The application is deployed using **Streamlit Community Cloud** and can also be 
 
 ---
 
-## 🎯 Use Cases
+##  Use Cases
 
 - Resume screening
 - Job readiness assessment
